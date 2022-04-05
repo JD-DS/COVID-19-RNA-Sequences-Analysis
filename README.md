@@ -1,4 +1,4 @@
-# COVID-19-RNA-Sequences-Analysis
+# COVID-19-RNA-Sequences-Analysis (Follow along Project from Dataquest IO)
 Analysis of COVID-19 sequences in different Variants of the COVID-19 Virus.
 
 --RNA Overview:
