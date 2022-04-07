@@ -1,6 +1,8 @@
 # COVID-19-RNA-Sequences-Analysis 
 
 Follow along Project with Dataquest IO founder Vikas Paruchuri
+
+
 Analysis of COVID-19 sequences in different Variants of the COVID-19 Virus.
 
 --RNA Overview:
